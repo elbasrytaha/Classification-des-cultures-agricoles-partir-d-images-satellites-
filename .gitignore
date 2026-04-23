@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Models (إذا بغيتي تخليهم غير عبر Git LFS)
+*.h5
+*.keras
+*.pt
+*.ckpt
+
+# OS files
+.DS_Store
+Thumbs.db
