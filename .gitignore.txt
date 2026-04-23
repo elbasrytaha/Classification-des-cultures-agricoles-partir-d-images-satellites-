@@ -1,0 +1,11 @@
+# Database
+*.db
+
+# Dataset
+data/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
